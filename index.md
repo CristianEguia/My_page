@@ -1,54 +1,56 @@
-profile:
-  name: "***Cristian Eguia***"
-  greeting: "👋 Welcome to my site..."
-  areas: 🌏 Geoinformatics & Remote Sensing | 💻 GIS & Programming Analyst | 📖 Master in Remote Sensing |
-🎯 Geospatial Solutions | 🚀 RPAS Pilot
+---
+layout: default
+title: "Cristian Eguia | Geomatics & Development"
+---
 
-about_me:
-  title: "🌍 About Me"
-  profession: "Geomatics Engineer"
-  experience_years: 10
-  sectors:
-    - "Electrical infrastructure"
-    - "Mining"
-    - "Natural disaster management"
-    - "Civil works"
-  expertise:
-    - "Multispectral and hyperspectral satellite imagery"
-    - "LiDAR"
-    - "Remotely piloted aerial systems (RPAS)"
-  passion: "Geospatial analysis and integrating geomatics with web development"
+# ***Cristian Eguia***  
+*🌏 Geoinformatics & Remote Sensing | 💻 GIS & Programming Analyst | 📖 Master in Remote Sensing | 🎯 Geospatial Solutions | 🚀 RPAS Pilot*
+## 🌍 About Me  
+I am a **Geomatics Engineer** with over **10 years of experience** leading GIS projects in:  
+✔ Electrical infrastructure  
+✔ Mining  
+✔ Natural disaster management  
+✔ Civil works  
 
-programming_journey:
-  title: "💻 Programming Journey"
-  education: 
-    - institution: "LaSalle College"
-      field: "Programming"
-  projects:
-    - "Interactive web maps with PHP, MySQL, and Leaflet.js"
-    - "Task management applications using modern frameworks"
-  learning:
-    - "Python for data analysis"
-    - "PHP for backend development"
-    - "Java for stack and queue implementations"
+### 🛰 Expertise in:
+- **Aerial Mapping (aircraft or drones)**
+- **Multispectral & Hyperspectral Satellite Imagery**
+- **LiDAR**
+- **Geographic Information Systems (GIS)**
+- **Remotely Piloted Aerial Systems (RPAS)**
+- **IMINT**  
 
-skills:
-  title: "🛠️ Skills"
-  programming_languages:
-    - "Python"
-    - "PHP"
-    - "Java"
-  technologies:
-    - "Leaflet.js"
-    - "MySQL"
-    - "AJAX"
-  tools:
-    - "Xcode"
-    - "VMware Workstation"
-    - "Git"
+🔍 Passionate about **Geospatial Analysis** and integrating **Geomatics** with **web and app development**.
 
-contact:
-  title: "📫 Get in Touch"
-  linkedin: "https://www.linkedin.com/in/cristian-eguia"
-  email: "eguia.c@gmail.com"
+---
+
+## 💻 Programming Journey  
+🎓 **Currently studying Programming at LaSalle College**, expanding my knowledge in **full-stack development**.  
+
+### 🚀 Projects:
+- 🗺 **Interactive web maps** with **PHP, MySQL, and Leaflet.js**
+- ✅ **Task management applications** using modern frameworks  
+
+### 💡 Learning and Exploring:
+- Python for data analysis  
+- PHP for backend development  
+- Java for stack and queue implementations
+- SQL for database management.  
+
+---
+
+## 🛠 Skills  
+🔹 **Programming Languages:** Python, PHP, Java  
+🔹 **Technologies:** Leaflet.js, MySQL, AJAX  
+🔹 **Tools:** Xcode, VMware Workstation, Git  
+
+---
+
+## 📫 Get in Touch  
+📩 Email: [eguia.c@gmail.com](mailto:eguia.c@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/cristian-eguia](https://www.linkedin.com/in/cristian-eguia)  
+
+---
+
+🚀 **[Check out my GitHub Projects](https://github.com/cristianeguia)**  
 
